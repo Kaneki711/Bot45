@@ -3,7 +3,7 @@
 import LINETCR
 from LINETCR.lib.curve.ttypes import *
 from datetime import datetime
-import time,random,sys,json,codecs,threading,glob,re,ast,os,subprocess,requests,urllib,wikipedia
+import time,random,sys,json,codecs,threading,glob,re,ast,os,subprocess,requests,urllib
 from gtts import gTTS
 import goslate
 import time
